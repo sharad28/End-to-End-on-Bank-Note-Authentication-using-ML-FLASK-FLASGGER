@@ -1,6 +1,6 @@
 # End-to-End-on-Bank-Note-Authentication-using-ML-FLASK-FLASGGER
 Abstract:/n
-Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes. Click here to get the dataset https://archive.ics.uci.edu/ml/machine-learning-databases/00267/
+Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes. 
 
 #Attribute Information
 
@@ -20,8 +20,4 @@ Data were extracted from images that were taken from genuine and forged banknote
 
 #Source
 
-Owner of database: Volker Lohweg (University of Applied Sciences, Ostwestfalen-Lippe, volker.lohweg '@' hs-owl.de)
-
-Donor of database: Helene DÃ¶rksen (University of Applied Sciences, Ostwestfalen-Lippe, helene.doerksen '@' hs-owl.de)
-
-Date received: August, 2012
+Kaggle
