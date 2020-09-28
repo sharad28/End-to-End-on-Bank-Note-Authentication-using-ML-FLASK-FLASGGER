@@ -1,9 +1,9 @@
 # End-to-End-on-Bank-Note-Authentication-using-ML-FLASK-FLASGGER
-Abstract:
+Abstract:/n
 Data were extracted from images that were taken for the evaluation of an authentication procedure for banknotes. Click here to get the dataset https://archive.ics.uci.edu/ml/machine-learning-databases/00267/
 
-Attribute Information
-variance of Wavelet Transformed image (continuous)
+Attribute Information/n
+variance of Wavelet Transformed image (continuous)/n
 skewness of Wavelet Transformed image (continuous)
 curtosis of Wavelet Transformed image (continuous)
 entropy of image (continuous)
